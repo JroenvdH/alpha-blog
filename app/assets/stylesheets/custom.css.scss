@@ -106,10 +106,6 @@
   margin-top: 0px;
 }
 
-.background_color_lb {
-  background-color: #DFF0F5; 
-}
-
 .article-title {
   font-weight: bold;
   font-size: 1.5em;
@@ -120,5 +116,13 @@
   padding: 15px 0px;
 }
 
+.badge {
+  background-color: #cef6f5;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
 
-
+.input-checkbox input {
+  width: auto !important;
+}
